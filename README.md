@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Amie Davis.
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning Trifacta.
-- 💞️ I’m looking to collaborate on data wrangling and data preparation.
-- 📫 You can reach me at amodavis@bellevue.edu
+- 🌱 I’m currently learning Databricks.
+- 💞️ I’m looking to collaborate on data wrangling, data preparation, and machine learning use cases.
+- 📫 You can reach me at amodavis@my365.bellevue.edu
 
 <!---
 amodavis/amodavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
