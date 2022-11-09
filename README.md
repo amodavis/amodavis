@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning Databricks.
 - 💞️ I’m looking to collaborate on data wrangling, data preparation, and machine learning use cases.
-- 📫 You can reach me at amodavis@my365.bellevue.edu
+- 📫 You can reach me at amomuz@gmail.com.
 
 <!---
 amodavis/amodavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
